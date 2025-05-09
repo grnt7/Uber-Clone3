@@ -72,4 +72,3 @@ const styles = StyleSheet.create({
 });
 
 
-// <NavFavourites /> this is breaking the project.
